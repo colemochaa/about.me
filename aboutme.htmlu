@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="aboutmestyles.css">
+    <script src="aboutme.js"></script>
+</head>
+<body>
+    <!--My first website for GWC-->
+<div>
+<h1 tabindex="0">Nicole Goenawan</h1>
+<h2>Bio:</h2>
+    I am a girl who codes from Manhattan, NY. I will be in my junior year in the fall. I live with my mom, sister, and my dog named Momo. You can find me outside hanging with my friends or at home sleeping or watching Netflix/YouTube and eating. I spend some of my spare time reading or singing and dancing. 
+</div>
+
+    <button id = "brags" onclick="showHideSection('showHideSection')"> press me :)</button>
+<div id="showHideSection">
+    <h2 tabindex="0">Activities:</h2>
+<ul>
+<li>Manage three sports team: soccer, basketball, and softball</li>
+<li>On the dance team</li>
+<li>National Honor Society</li>
+</ul>
+</div>
+<h2 tabindex="0">Likes:</h2>
+<ul>
+<li>The color yellow</li>
+<li>Food</li>
+<li>Reading</li>
+<li>I loOOOVVEE animals</li>
+<li>Minecraft</li>
+<li>Indonesian Fooooood</li>
+<li>The water (ocean, pool, etc)</li>
+</ul>
+<h2 tabindex="0">Dislikes:</h2>
+<ul>
+<li>The color purple</li>
+<li>Butterflies</li>
+<li>Birds (especially pigeons)</li>
+<li>Bugs and insects</li>
+<li>SPIDERSSSS</li>
+<li>Cupcakes</li>
+</div>
+</body>
+</html>
